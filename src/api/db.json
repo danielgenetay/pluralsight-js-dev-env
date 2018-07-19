@@ -1,3 +1,22 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 21347592,
+      "firstName": "Hiram",
+      "lastName": "Steuber",
+      "email": "Roselyn.Hackett@hotmail.com"
+    },
+    {
+      "id": 29378491,
+      "firstName": "Camille",
+      "lastName": "Corwin",
+      "email": "Bryon77@gmail.com"
+    },
+    {
+      "id": 39161910,
+      "firstName": "Lenore",
+      "lastName": "Stoltenberg",
+      "email": "Anna45@gmail.com"
+    }
+  ]
 }

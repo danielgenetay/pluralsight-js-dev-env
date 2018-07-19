@@ -1,6 +1,5 @@
 export default function getBaseUrl(){
-  console.log(getQueryStringParameterByName('useMockApi') ? 'http://localhost:3001/' : '/'); //eslint-disable-line no-console
-  return getQueryStringParameterByName('useMockApi') ? 'http://localhost:3001/' : '/';
+  return getQueryStringParameterByName('useMockApi') ? 'http://localhost:3001/' : 'https://ancient-river-94771.herokuapp.com/';
 }
 
 function getQueryStringParameterByName(name, url) {
